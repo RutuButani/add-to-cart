@@ -1,0 +1,5 @@
+{
+  "coupons": [
+    { "id": 1, "code": "DISCOUNT10", "discountPercentage": 10 }
+  ]
+}
